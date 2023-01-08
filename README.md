@@ -5,3 +5,8 @@
 1. [Github Account](https://github.com)
 3. [GitCLI](https://git-scm.com/book/en/v2)
 2. [VSCodeIDE](https://code.visualstudio.com/)
+
+Create a new environment.
+'''
+python -m venv venv
+'''
