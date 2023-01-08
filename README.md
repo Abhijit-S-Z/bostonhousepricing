@@ -7,6 +7,6 @@
 2. [VSCodeIDE](https://code.visualstudio.com/)
 
 Create a new environment.
-'''
+```
 python -m venv venv
-'''
+```
